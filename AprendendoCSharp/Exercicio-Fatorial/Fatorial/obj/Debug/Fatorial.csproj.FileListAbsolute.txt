@@ -1,0 +1,7 @@
+C:\dev\CSharp\AprendendoCSharp\Fatorial\Fatorial\bin\Debug\Fatorial.exe.config
+C:\dev\CSharp\AprendendoCSharp\Fatorial\Fatorial\bin\Debug\Fatorial.exe
+C:\dev\CSharp\AprendendoCSharp\Fatorial\Fatorial\bin\Debug\Fatorial.pdb
+C:\dev\CSharp\AprendendoCSharp\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.SuggestedBindingRedirects.cache
+C:\dev\CSharp\AprendendoCSharp\Fatorial\Fatorial\obj\Debug\Fatorial.csproj.CoreCompileInputs.cache
+C:\dev\CSharp\AprendendoCSharp\Fatorial\Fatorial\obj\Debug\Fatorial.exe
+C:\dev\CSharp\AprendendoCSharp\Fatorial\Fatorial\obj\Debug\Fatorial.pdb

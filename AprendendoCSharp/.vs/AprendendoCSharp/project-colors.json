@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0feb1646-d1a8-45a2-b03b-3182ff7e134a": {
+      "ProjectGuid": "0feb1646-d1a8-45a2-b03b-3182ff7e134a",
+      "DisplayName": "10-CalculaPoupanca",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

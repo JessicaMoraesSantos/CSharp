@@ -1,0 +1,7 @@
+C:\dev\CSharp\AprendendoCSharp\13-ForEncadeado2\13-ForEncadeado2\bin\Debug\13-ForEncadeado2.exe.config
+C:\dev\CSharp\AprendendoCSharp\13-ForEncadeado2\13-ForEncadeado2\bin\Debug\13-ForEncadeado2.exe
+C:\dev\CSharp\AprendendoCSharp\13-ForEncadeado2\13-ForEncadeado2\bin\Debug\13-ForEncadeado2.pdb
+C:\dev\CSharp\AprendendoCSharp\13-ForEncadeado2\13-ForEncadeado2\obj\Debug\13-ForEncadeado2.csproj.SuggestedBindingRedirects.cache
+C:\dev\CSharp\AprendendoCSharp\13-ForEncadeado2\13-ForEncadeado2\obj\Debug\13-ForEncadeado2.csproj.CoreCompileInputs.cache
+C:\dev\CSharp\AprendendoCSharp\13-ForEncadeado2\13-ForEncadeado2\obj\Debug\13-ForEncadeado2.exe
+C:\dev\CSharp\AprendendoCSharp\13-ForEncadeado2\13-ForEncadeado2\obj\Debug\13-ForEncadeado2.pdb

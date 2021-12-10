@@ -1,0 +1,8 @@
+C:\dev\CSharp\AprendendoCSharp\11-For\11-For\bin\Debug\11-For.exe.config
+C:\dev\CSharp\AprendendoCSharp\11-For\11-For\bin\Debug\11-For.exe
+C:\dev\CSharp\AprendendoCSharp\11-For\11-For\bin\Debug\11-For.pdb
+C:\dev\CSharp\AprendendoCSharp\11-For\11-For\obj\Debug\11-For.csproj.AssemblyReference.cache
+C:\dev\CSharp\AprendendoCSharp\11-For\11-For\obj\Debug\11-For.csproj.SuggestedBindingRedirects.cache
+C:\dev\CSharp\AprendendoCSharp\11-For\11-For\obj\Debug\11-For.csproj.CoreCompileInputs.cache
+C:\dev\CSharp\AprendendoCSharp\11-For\11-For\obj\Debug\11-For.exe
+C:\dev\CSharp\AprendendoCSharp\11-For\11-For\obj\Debug\11-For.pdb

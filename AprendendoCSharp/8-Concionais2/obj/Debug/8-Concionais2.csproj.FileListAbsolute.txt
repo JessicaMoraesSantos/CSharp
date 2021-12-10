@@ -1,0 +1,7 @@
+C:\dev\CSharp\AprendendoCSharp\8-Concionais2\bin\Debug\8-Concionais2.exe.config
+C:\dev\CSharp\AprendendoCSharp\8-Concionais2\bin\Debug\8-Concionais2.exe
+C:\dev\CSharp\AprendendoCSharp\8-Concionais2\bin\Debug\8-Concionais2.pdb
+C:\dev\CSharp\AprendendoCSharp\8-Concionais2\obj\Debug\8-Concionais2.csproj.SuggestedBindingRedirects.cache
+C:\dev\CSharp\AprendendoCSharp\8-Concionais2\obj\Debug\8-Concionais2.csproj.CoreCompileInputs.cache
+C:\dev\CSharp\AprendendoCSharp\8-Concionais2\obj\Debug\8-Concionais2.exe
+C:\dev\CSharp\AprendendoCSharp\8-Concionais2\obj\Debug\8-Concionais2.pdb

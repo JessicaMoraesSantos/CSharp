@@ -1,0 +1,7 @@
+C:\dev\CSharp\AprendendoCSharp\ExercicioImpostoDeRenda\bin\Debug\ExercicioImpostoDeRenda.exe.config
+C:\dev\CSharp\AprendendoCSharp\ExercicioImpostoDeRenda\bin\Debug\ExercicioImpostoDeRenda.exe
+C:\dev\CSharp\AprendendoCSharp\ExercicioImpostoDeRenda\bin\Debug\ExercicioImpostoDeRenda.pdb
+C:\dev\CSharp\AprendendoCSharp\ExercicioImpostoDeRenda\obj\Debug\ExercicioImpostoDeRenda.csproj.SuggestedBindingRedirects.cache
+C:\dev\CSharp\AprendendoCSharp\ExercicioImpostoDeRenda\obj\Debug\ExercicioImpostoDeRenda.csproj.CoreCompileInputs.cache
+C:\dev\CSharp\AprendendoCSharp\ExercicioImpostoDeRenda\obj\Debug\ExercicioImpostoDeRenda.exe
+C:\dev\CSharp\AprendendoCSharp\ExercicioImpostoDeRenda\obj\Debug\ExercicioImpostoDeRenda.pdb

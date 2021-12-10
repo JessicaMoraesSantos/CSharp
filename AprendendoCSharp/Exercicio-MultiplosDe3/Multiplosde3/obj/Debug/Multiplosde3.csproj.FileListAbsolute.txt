@@ -1,0 +1,7 @@
+C:\dev\CSharp\AprendendoCSharp\Multiplosde3\Multiplosde3\bin\Debug\Multiplosde3.exe.config
+C:\dev\CSharp\AprendendoCSharp\Multiplosde3\Multiplosde3\bin\Debug\Multiplosde3.exe
+C:\dev\CSharp\AprendendoCSharp\Multiplosde3\Multiplosde3\bin\Debug\Multiplosde3.pdb
+C:\dev\CSharp\AprendendoCSharp\Multiplosde3\Multiplosde3\obj\Debug\Multiplosde3.csproj.SuggestedBindingRedirects.cache
+C:\dev\CSharp\AprendendoCSharp\Multiplosde3\Multiplosde3\obj\Debug\Multiplosde3.csproj.CoreCompileInputs.cache
+C:\dev\CSharp\AprendendoCSharp\Multiplosde3\Multiplosde3\obj\Debug\Multiplosde3.exe
+C:\dev\CSharp\AprendendoCSharp\Multiplosde3\Multiplosde3\obj\Debug\Multiplosde3.pdb

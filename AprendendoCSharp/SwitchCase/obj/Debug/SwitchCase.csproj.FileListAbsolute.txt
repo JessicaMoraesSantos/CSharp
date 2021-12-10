@@ -1,0 +1,7 @@
+C:\dev\CSharp\AprendendoCSharp\SwitchCase\bin\Debug\SwitchCase.exe.config
+C:\dev\CSharp\AprendendoCSharp\SwitchCase\bin\Debug\SwitchCase.exe
+C:\dev\CSharp\AprendendoCSharp\SwitchCase\bin\Debug\SwitchCase.pdb
+C:\dev\CSharp\AprendendoCSharp\SwitchCase\obj\Debug\SwitchCase.csproj.SuggestedBindingRedirects.cache
+C:\dev\CSharp\AprendendoCSharp\SwitchCase\obj\Debug\SwitchCase.csproj.CoreCompileInputs.cache
+C:\dev\CSharp\AprendendoCSharp\SwitchCase\obj\Debug\SwitchCase.exe
+C:\dev\CSharp\AprendendoCSharp\SwitchCase\obj\Debug\SwitchCase.pdb

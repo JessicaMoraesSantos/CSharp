@@ -1,0 +1,8 @@
+C:\dev\CSharp\AprendendoCSharp\10-Loop\10-Loop\bin\Debug\10-Loop.exe.config
+C:\dev\CSharp\AprendendoCSharp\10-Loop\10-Loop\bin\Debug\10-Loop.exe
+C:\dev\CSharp\AprendendoCSharp\10-Loop\10-Loop\bin\Debug\10-Loop.pdb
+C:\dev\CSharp\AprendendoCSharp\10-Loop\10-Loop\obj\Debug\10-Loop.csproj.AssemblyReference.cache
+C:\dev\CSharp\AprendendoCSharp\10-Loop\10-Loop\obj\Debug\10-Loop.csproj.SuggestedBindingRedirects.cache
+C:\dev\CSharp\AprendendoCSharp\10-Loop\10-Loop\obj\Debug\10-Loop.csproj.CoreCompileInputs.cache
+C:\dev\CSharp\AprendendoCSharp\10-Loop\10-Loop\obj\Debug\10-Loop.exe
+C:\dev\CSharp\AprendendoCSharp\10-Loop\10-Loop\obj\Debug\10-Loop.pdb

@@ -1,0 +1,7 @@
+C:\dev\CSharp\AprendendoCSharp\4-ConvesoesEOutrosTiposNumericos\bin\Debug\4-ConvesoesEOutrosTiposNumericos.exe.config
+C:\dev\CSharp\AprendendoCSharp\4-ConvesoesEOutrosTiposNumericos\bin\Debug\4-ConvesoesEOutrosTiposNumericos.exe
+C:\dev\CSharp\AprendendoCSharp\4-ConvesoesEOutrosTiposNumericos\bin\Debug\4-ConvesoesEOutrosTiposNumericos.pdb
+C:\dev\CSharp\AprendendoCSharp\4-ConvesoesEOutrosTiposNumericos\obj\Debug\4-ConvesoesEOutrosTiposNumericos.csproj.SuggestedBindingRedirects.cache
+C:\dev\CSharp\AprendendoCSharp\4-ConvesoesEOutrosTiposNumericos\obj\Debug\4-ConvesoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\dev\CSharp\AprendendoCSharp\4-ConvesoesEOutrosTiposNumericos\obj\Debug\4-ConvesoesEOutrosTiposNumericos.exe
+C:\dev\CSharp\AprendendoCSharp\4-ConvesoesEOutrosTiposNumericos\obj\Debug\4-ConvesoesEOutrosTiposNumericos.pdb
